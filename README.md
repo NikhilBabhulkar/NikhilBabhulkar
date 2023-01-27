@@ -1,7 +1,9 @@
 <h1 align="center">Hi 👋, I'm Nikhil Babhulkar</h1>
-![mybackprofile](https://user-images.githubusercontent.com/87929600/215122532-3fdc795d-5116-4a0c-aa02-9c58306a4a96.png)
-
 <h3 align="center">A passionate full-stack developer and a cyber security enthusiast from Shri Sant Gajanan Maharaj College Of Engineering ,Shegaon</h3>
+<img src="https://user-images.githubusercontent.com/87929600/215124394-2d421f64-77c0-4c2e-b204-60858d1ab79a.png" alt="nikhilbabhulkar" />
+
+<!-- 
+![mybackprofile](https://user-images.githubusercontent.com/87929600/215124394-2d421f64-77c0-4c2e-b204-60858d1ab79a.png) -->
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nikhilbabhulkar&label=Profile%20views&color=0e75b6&style=flat" alt="nikhilbabhulkar" /> </p>
 
