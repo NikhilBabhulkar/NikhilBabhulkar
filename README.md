@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nikhil Babhulkar</h1>
 <h3 align="center">A passionate full-stack developer and a cyber security enthusiast from Shri Sant Gajanan Maharaj College Of Engineering ,Shegaon</h3>
-<img src="https://user-images.githubusercontent.com/87929600/215124394-2d421f64-77c0-4c2e-b204-60858d1ab79a.png" alt="nikhilbabhulkar" />
+![2](https://github.com/NikhilBabhulkar/NikhilBabhulkar/assets/87929600/dee73012-39d4-4392-9006-93fcc6aa9510)
+
 
 <!-- 
 ![mybackprofile](https://user-images.githubusercontent.com/87929600/215124394-2d421f64-77c0-4c2e-b204-60858d1ab79a.png) -->
