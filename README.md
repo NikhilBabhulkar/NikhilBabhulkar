@@ -12,7 +12,7 @@
 
 <p align="left"> <a href="https://twitter.com/tech083n" target="blank"><img src="https://img.shields.io/twitter/follow/tech083n?logo=twitter&style=for-the-badge" alt="tech083n" /></a> </p>
 
-- 👨‍💻 All of my projects are available at [nikhilbabhulkar.github.io/my_app](nikhilbabhulkar.github.io/my_app)
+- 👨‍💻 All of my projects are available at [nikhilbabhulkar.github.io/my_app](nikhilbabhulkar.github.io/my_app)](https://beautiful-cobbler-8a5ae6.netlify.app/)
 
 - 💬 Ask me about **Python ,Java ,React**
 
